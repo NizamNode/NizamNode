@@ -1,4 +1,4 @@
-# 🚀 Innovating Open-Source AI with NizamNode!🤖🔥
+# 🚀 Open-Source AI with NizamNode!🤖🔥
 
 ## 👋 Who Am I?
 Hey there! I'm **Nizam**, an open-source AI enthusiast, developer, and contributor. My mission? To advance artificial intelligence by building innovative, accessible, and ethical AI tools for everyone. 💡💻
